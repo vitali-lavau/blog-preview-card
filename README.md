@@ -8,7 +8,7 @@ The goal was to build a responsive and pixel-perfect blog preview card according
 
 ## Live Demo
 
-👉 **[View deployed project](https://ваш-сайт.ссылка)**  
+👉 **[View deployed project](https://vitali-lavau.github.io/blog-preview-card/)**  
 
 ## Screenshot
 
